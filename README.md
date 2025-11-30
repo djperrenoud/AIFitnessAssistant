@@ -19,12 +19,12 @@ The application includes a user profile tab, an AI chat interface, workout loggi
 ### Installation & Run
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+# Clone the repository
+git clone https://github.com/djperrenoud/AIFitnessAssistant.git
+cd AIFitnessAssistant
 
+# Install dependencies
 pip install -r requirements.txt
 
+# Start the app
 streamlit run app.py
-# Open in your browser:
-# http://localhost:8501
-
