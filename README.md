@@ -1,4 +1,4 @@
-AI Fitness Assistant (Streamlit App)
+# AI Fitness Assistant (Streamlit App)
 
 This is a Streamlit-based AI Fitness Assistant powered by a quantized Mistral-7B model.
 It includes a user profile tab, an AI chat interface, workout logging, and a clean dark UI.
